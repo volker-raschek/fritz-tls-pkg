@@ -1,7 +1,6 @@
 # fritz-tls
 
 ![AUR version](https://img.shields.io/aur/version/fritz-tls?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/fritz-tls-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/fritz-tls-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/fritz-tls)
 
 This repository contains build files to build the Arch Linux package `fritz-tls`. Instead of
