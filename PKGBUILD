@@ -1,7 +1,7 @@
 # Maintainer: Markus Pesch <markus.pesch plus apps at cryptic.systems>
 
 pkgname=fritz-tls
-pkgver=0.21.0 # renovate: datasource=github-releases depName=tisba/fritz-tls
+pkgver=0.22.0 # renovate: datasource=github-releases depName=tisba/fritz-tls
 pkgrel=1
 pkgdesc="Automate TLS certificate installation for AVM FRITZ!Box "
 arch=('armv7h' 'aarch64' 'x86_64')
